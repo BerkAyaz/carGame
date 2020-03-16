@@ -1,0 +1,2 @@
+Highscore = 1200
+carSkin = ../textures/blueCar.png

@@ -1,0 +1,3 @@
+G:/6 - Advanced programming/carGame/cmake-build-debug/CMakeFiles/carGame.dir
+G:/6 - Advanced programming/carGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/6 - Advanced programming/carGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

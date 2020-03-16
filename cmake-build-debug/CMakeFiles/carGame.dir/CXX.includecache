@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/6 - Advanced programming/carGame/main.cpp
+iostream
+-
+res/SDL/SDLFact.h
+G:/6 - Advanced programming/carGame/res/SDL/SDLFact.h
+res/SDL/SDLeventHandler.h
+G:/6 - Advanced programming/carGame/res/SDL/SDLeventHandler.h
+
+G:/6 - Advanced programming/carGame/res/AFact.h
+car.h
+G:/6 - Advanced programming/carGame/res/car.h
+Missile.h
+G:/6 - Advanced programming/carGame/res/Missile.h
+Enemy.h
+G:/6 - Advanced programming/carGame/res/Enemy.h
+string
+G:/6 - Advanced programming/carGame/res/string
+Bonus.h
+G:/6 - Advanced programming/carGame/res/Bonus.h
+
+G:/6 - Advanced programming/carGame/res/Bonus.h
+Entity.h
+G:/6 - Advanced programming/carGame/res/Entity.h
+string
+G:/6 - Advanced programming/carGame/res/string
+
+G:/6 - Advanced programming/carGame/res/Enemy.h
+Entity.h
+G:/6 - Advanced programming/carGame/res/Entity.h
+
+G:/6 - Advanced programming/carGame/res/Entity.h
+
+G:/6 - Advanced programming/carGame/res/Game.h
+AFact.h
+G:/6 - Advanced programming/carGame/res/AFact.h
+eventHandler.h
+G:/6 - Advanced programming/carGame/res/eventHandler.h
+list
+-
+
+G:/6 - Advanced programming/carGame/res/Missile.h
+string
+-
+Entity.h
+G:/6 - Advanced programming/carGame/res/Entity.h
+
+G:/6 - Advanced programming/carGame/res/SDL/SDLFact.h
+SDL2/SDL.h
+G:/6 - Advanced programming/carGame/res/SDL/SDL2/SDL.h
+SDL2/SDL_image.h
+G:/6 - Advanced programming/carGame/res/SDL/SDL2/SDL_image.h
+../AFact.h
+G:/6 - Advanced programming/carGame/res/AFact.h
+../Game.h
+G:/6 - Advanced programming/carGame/res/Game.h
+string
+-
+
+G:/6 - Advanced programming/carGame/res/SDL/SDLeventHandler.h
+SDL2/SDL.h
+-
+../eventHandler.h
+G:/6 - Advanced programming/carGame/res/eventHandler.h
+
+G:/6 - Advanced programming/carGame/res/car.h
+string
+-
+Entity.h
+G:/6 - Advanced programming/carGame/res/Entity.h
+
+G:/6 - Advanced programming/carGame/res/eventHandler.h
+
